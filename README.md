@@ -1,4 +1,6 @@
 Pod::To::LaTeX
 ===============
 
-Convert POD documents into LaTeX documents
+Convert documents written in Perl 6 POD into LaTeX documents.
+
+This is very much a work in progress.
