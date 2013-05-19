@@ -1,4 +1,4 @@
-p6-Pod-To-LaTeX
+Pod::To::LaTeX
 ===============
 
 Convert POD documents into LaTeX documents
